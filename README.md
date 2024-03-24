@@ -1,6 +1,6 @@
-# 100DaysOfCode challenge
+# 50DaysOfCode challenge
 
-### Join the daily challenges: [iCodeThis](https://iCodeThis.com/?ref=virag)
+
 
 | Day 1 | Day 2 |
 |---|---|
